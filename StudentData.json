@@ -1,0 +1,32 @@
+{
+    "1":
+    {
+        "name":"Mark Wahlberg",
+        "major":"robotics",
+        "starting_year":2017,
+        "total_attandance":7,
+        "standing":"G",
+        "year":4,
+        "last_attandance_time": "2026-1-14 00:54:34"
+    },      
+    "2":
+    {
+        "name":"Dwayne Johnson",
+        "major":"robotics",
+        "starting_year":2017,
+        "total_attandance":7,
+        "standing":"G",
+        "year":4,
+        "last_attandance_time": "2026-1-14 00:54:34"
+    },
+    "3":
+    {
+        "name":"chris pratt",
+        "major":"robotics",
+        "starting_year":2017,
+        "total_attandance":7,
+        "standing":"G",
+        "year":4,
+        "last_attandance_time": "2026-1-14 00:54:34"
+    }
+}
